@@ -1,0 +1,48 @@
+{
+  "name": "amdsets",
+  "version": "0.2.0",
+  "description": "AMDSets.com website",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zsoltime/amdsets.git"
+  },
+  "scripts": {
+    "build": "gulp build:dist",
+    "preview": "gulp preview:dist",
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zsolt Meszaros",
+  "license": "MIT",
+  "dependencies": {
+    "postcss-normalize": "^4.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.2.4",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.23.5",
+    "del": "^3.0.0",
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb-base": "^11.3.2",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-import": "^2.8.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-rev": "^7.1.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.3",
+    "gulp-usemin": "^0.3.28",
+    "gulp-watch": "^4.3.11",
+    "webpack": "^2.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/zsoltime/amdsets/issues"
+  },
+  "homepage": "https://github.com/zsoltime/amdsets#readme"
+}
