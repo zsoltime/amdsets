@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://amdsets.com/feed" rel="self" type="application/rss+xml"/>
+
+    <title>AMD Podcast</title>
+    <link>https://amdsets.com</link>
+    <pubDate>Mon, 29 Jan 2018 17:10:00 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jan 2018 17:10:00 +0000</lastBuildDate>
+    <ttl>120</ttl>
+    <language>en</language>
+    <category>Music</category>
+    <copyright>Copyright © 2018 All rights reserved</copyright>
+    <webMaster>zsolt@sowad.com (Zsolt Meszaros)</webMaster>
+    <description><![CDATA[It's been more than 10 years since their last live + vinyl DJ set, but Fusion 9 (Wildcrush and Sholt) is back, and back with a new mix series. Analogue Meets Digital is a bi-weekly podcast, bringing you their latest raw, industrial techno sets and one guest mix every second Monday.]]></description>
+    <itunes:summary><![CDATA[Hosted by Fusion 9, Analogue Meets Digital is a bi-weekly podcast, bringing you the hosts' latest raw, industrial techno sets and one guest mix every second Monday.]]></itunes:summary>
+    <itunes:subtitle>Analogue Meets Digital Podcast</itunes:subtitle>
+    <itunes:author>Analogue Meets Digital</itunes:author>
+    <itunes:owner>
+      <itunes:name>Analogue Meets Digital</itunes:name>
+      <itunes:email>amdsets@gmail.com (Zsolt Meszaros)</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://amdsets.com/images/artwork.png?v=0"/>
+    <image>
+      <url>https://amdsets.com/images/artwork.png?v=0</url>
+      <title>AMD Podcast</title>
+      <link>https://amdsets.com</link>
+    </image>
+    <itunes:keywords>techno,dark techno,industrial techno,industrial,noise</itunes:keywords>
+    <itunes:category text="Music"/>
+    <itunes:type>episodic</itunes:type>
+
+    <item>
+      <guid>https://amdsets.com/001#b</guid>
+      <title>AMD 001.B - Sholt</title>
+      <pubDate>Mon, 29 Jan 2018 17:10:00 +0000</pubDate>
+      <link>https://amdsets.com/001#b</link>
+      <itunes:duration>00:52:40</itunes:duration>
+      <itunes:author>Analogue Meets Digital</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Today's host is Sholt with a noisy dark techno set</itunes:subtitle>
+      <itunes:summary>This is the second hour of our first episode. Today's host is Sholt and we do hope you'll love his noisy dark techno set.</itunes:summary>
+      <description><![CDATA[This is the second hour of our first episode. Today's host is Sholt and we do hope you'll love his noisy dark techno set.]]></description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/390899886-amdsets-amd-001b-sholt.mp3" length="127694927"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000292561959-6fldr3-original.jpg"/>
+    </item>
+
+    <item>
+      <guid>https://amdsets.com/001#a</guid>
+      <title>AMD 001.A - Subcone</title>
+      <pubDate>Mon, 29 Jan 2018 16:00:00 +0000</pubDate>
+      <link>https://amdsets.com/001#a</link>
+      <itunes:duration>01:10:10</itunes:duration>
+      <itunes:author>Analogue Meets Digital</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>We are pleased to have Subcone behind the decks</itunes:subtitle>
+      <itunes:summary>We are pleased to have Subcone behind the decks with a lovely selection of underground techno records. This is the first hour of our first episode, enjoy!</itunes:summary>
+      <description><![CDATA[We are pleased to have Subcone behind the decks with a lovely selection of underground techno records. This is the first hour of our first episode, enjoy!]]></description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/390752835-amdsets-amd-001a-subcone.mp3" length="169686914"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000292435962-cxjzcu-original.jpg"/>
+    </item>
+
+    <item>
+      <guid>https://amdsets.com/000</guid>
+      <title>AMD 000 - Fusion 9 - Live @ BeatRoom</title>
+      <pubDate>Mon, 15 Jan 2018 16:00:00 +0000</pubDate>
+      <link>https://amdsets.com/000</link>
+      <itunes:duration>00:56:21</itunes:duration>
+      <itunes:author>Analogue Meets Digital</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>The very first episode, featuring our hybrid DJ+live set recorded live on New Year's Eve.</itunes:subtitle>
+      <itunes:summary>The very first episode of our bi-weekly podcast, "Analogue Meets Digital". It's a special one, as there is no guest today and you can listen to our hybrid DJ+live set recorded live on New Year's Eve.</itunes:summary>
+      <description><![CDATA[The very first episode of our bi-weekly podcast, "Analogue Meets Digital". It's a special one, as there is no guest today and you can listen to our hybrid DJ+live set recorded live on New Year's Eve.]]></description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/384036476-amdsets-amd-000-fusion-9.mp3" length="135480065"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000287274764-1b890z-original.jpg"/>
+    </item>
+
+  </channel>
+</rss>
